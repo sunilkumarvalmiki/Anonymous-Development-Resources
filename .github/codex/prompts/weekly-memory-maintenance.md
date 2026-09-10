@@ -15,6 +15,9 @@ Review the last 7 days of repository activity and keep `docs/ai-memory/` current
 5. `docs/ai-memory/WEEKLY_MEMORY_LOG.md`
 6. `README.md`
 7. `CONTRIBUTING.md`
+8. `.github/codex/runtime/recent-commits.tsv`
+9. `.github/codex/runtime/open-pull-requests.json`
+10. `.github/codex/runtime/open-issues.json`
 
 ## Review Scope
 
@@ -34,7 +37,7 @@ Review the last 7 days of repository activity and keep `docs/ai-memory/` current
 5. List unresolved ambiguities as `Needs verification`.
 6. Recommend `AGENTS.md` changes only when the guidance is recurring and repo-wide.
 7. Avoid making product, content, or architecture changes outside project-memory maintenance unless explicitly asked.
-8. Open or update a branch / PR instead of directly changing `main`.
+8. Update the checked-out branch only; the surrounding workflow opens or updates the maintenance PR after Codex writes the memory changes.
 
 ## Memory Rules
 

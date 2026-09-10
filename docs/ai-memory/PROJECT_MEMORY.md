@@ -57,7 +57,6 @@ The repository should stay outcome-focused, easy to browse on GitHub, and useful
   - `#2` high-volume discovery expansion
   - `#3` Resource Navigator design and README rewrite
   - `#4` Resource Navigator foundation
-- Current HEAD is commit `af319df`.
 - A Codespace named `ADR main` exists on `main` and was visible via `gh codespace list` on 2026-06-13.
 
 ## Needs Verification Later
