@@ -29,6 +29,8 @@ Developer tools, services, automation, hosting, CI/CD, observability, and produc
 
 ## Developer Productivity
 
+- [Kilobat for Students](https://kilobat.app/students) - Mac network diagnostics and hotspot data management; eligible students can request one free year of Pro on two Macs and renew while studying.
+
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Useful Git and GitHub features, workflows, and tips.
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - Shell frameworks, toolkits, guides, and command-line utilities.
 - [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps) - Command-line applications grouped by use case.
