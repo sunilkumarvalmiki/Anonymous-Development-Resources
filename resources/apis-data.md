@@ -27,6 +27,7 @@ Free learning material, public APIs, datasets, and reusable data sources for dev
 - [REST Countries](https://restcountries.com/) - Country data API useful for demos, forms, and geography projects.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake REST API for prototyping and tutorials.
 - [Reqres](https://reqres.in/) - Hosted REST API for testing front-end and HTTP client behavior.
+- [Bucketlist Dream of the Day API](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - Keyless JSON API for daily travel and experience inspiration, with Dutch/Netherlands defaults and optional language, scope, and theme filters.
 
 ## Datasets and Data Portals
 
